@@ -1,0 +1,2 @@
+# Python-Edu-Django
+sad
